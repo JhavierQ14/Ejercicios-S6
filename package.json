@@ -1,0 +1,12 @@
+{
+  "name": "ejercicios-s6",
+  "version": "1.0.0",
+  "description": "Ing. Carlos Vásquez and Ing Carlos Henriquez",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
